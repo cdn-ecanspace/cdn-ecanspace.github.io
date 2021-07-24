@@ -1,2 +1,2 @@
-# static-ecantech.github.io
-My static resource lib
+# ecan-static.github.io
+EcanTech's static resource warehouse
